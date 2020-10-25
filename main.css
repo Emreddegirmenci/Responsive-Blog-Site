@@ -1,0 +1,23 @@
+body {
+  background-color: turquoise;
+}
+
+div button {
+  height: 32px;
+  width: 70px;
+}
+
+div.list-group button {
+  height: 32px;
+  width: 120px;
+}
+
+img {
+  width: 50%;
+}
+
+div.col-sm-6 img {
+  width: 70%;
+  max-height: 250px;
+}
+/*# sourceMappingURL=main.css.map */
